@@ -1,4 +1,4 @@
-# test-project
+# VueVixensProjects-MW1
 
 > A Vue.js project
 
